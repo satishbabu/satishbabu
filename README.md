@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @satishbabu
-- 👀 I’m interested in all things technology and get technology working for humans.  I am a polyglot programmer but predominently work around Java Ecosystem
-- 📫 Here is my linkedIn profile https://www.linkedin.com/in/satishbabunc
+- Hi, I’m @satishbabu
+- I’m interested in all things technology and get technology working for humans.  I am a polyglot programmer but predominently work around Java Ecosystem
+- Here is my linkedIn profile https://www.linkedin.com/in/satishbabunc
